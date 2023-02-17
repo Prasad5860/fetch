@@ -1,1 +1,2 @@
 this is first line
+file2 modified in remote repo
